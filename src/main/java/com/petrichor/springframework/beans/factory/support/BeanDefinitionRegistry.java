@@ -1,6 +1,6 @@
 package com.petrichor.springframework.beans.factory.support;
 
-import com.petrichor.springframework.BeanDefinition;
+import com.petrichor.springframework.beans.factory.config.BeanDefinition;
 
 public interface BeanDefinitionRegistry {
 

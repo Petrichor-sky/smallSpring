@@ -1,4 +1,4 @@
-package com.petrichor.springframework;
+package com.petrichor.springframework.beans.factory.config;
 
 public class BeanDefinition {
     private Class beanClass;
